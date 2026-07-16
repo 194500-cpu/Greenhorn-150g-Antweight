@@ -12,6 +12,12 @@ By combining all these features, I have created a deceptively simple design, whi
 
 -Colgation
 
+**Important**
+Even though I have included the STL files for the antweight bot, I find it better to use Onshape in order to host it to allow modifications and precise parameters. <br>
+This is why I havbe included an Onshape document link here: https://cad.onshape.com/documents/7372a678bd67ffef3bf9fe75/w/b756b9b718aa94560d7b57d3/e/aa83c5eda608b85760f218dc?renderMode=0&uiState=6a596bcb6ef2740900decdec
+
+
+
 **Bill of Materials**
 -> 2x N20 Motors 6V <br>
 -> 2x Polulu Wheels (32mm x 7mm wheels for n20 motors) - https://www.pololu.com/product/1087 <br>
@@ -19,9 +25,10 @@ By combining all these features, I have created a deceptively simple design, whi
 -> 22 AWG Silicone Wire (I recommend stranded) <br>
 -> 3dprinted parts in the STL-files folder of this repository (You need to 3d print them, instructions on how are below) <br>
 -> A 2S LIHV battery - I used GNB 2S 7.6V 300mAh LiHV Battery 60C <br>
--> 2x 10mm screws <br>
+-> 2x M3 10mm screws <br>
 -> a male and female JST connector <br>
 -> 2 Zipties <br>
+-> Blu-tack <br>
 
 **3d Printer Settings**
 
@@ -44,12 +51,29 @@ Inner wall: 300mm/s<br>
 
 
 **Assembly**
-1) Push the wedge into the trapezium looking hole. It should be a bit resistant, so using a plastic hammer will help (it is friction fit)
-2) *Skip to step 6 if you are not using a Kakapo v2 board: position the board so that you can see the labels on it, then solder a wire each to the two most right-hand side terminals. (*NOTE: The two outermost terminals are negative, while the other two are positive)
-3) Repeat step 2 for the two most left-hand side terminals.
-4) Take a male JST connector and solder its positive end to the BAT terminal and its negative end to the GND terminal adjacent to the BAT terminal.
-5) Take a female JST connector and solder its positive end to the WEAP terminal and finally solder its negative end to the one remaining GND terminal.
-6) Solder the wire in the M1 terminal to the positive tab of a N20 motor.
-7) solder the wire next to the M1 terminal to the negative tab of the N20 motor.
-8) Take a second N20 motor and solder the wire connected to the M2 terminal to the motor's positive tab, then the remaining wire onto the N20 motor's negative tab.
-9) 
+1) Hammer the wedge into the trapezoid hole using a plastic hammer for a friction fit.
+2) Align the Kakapo v2 board with the chassis holes and secure it using two 10mm M3 screws. (If you are not using a Kakapo v2 board, skip to step 5).
+3) Solder wires to the two right-most terminals. (Note: Outermost is negative, inner is positive).
+4) Repeat this process by soldering wires to the two left-most terminals.
+5) Solder a male JST connector's positive wire to BAT and negative wire to the adjacent GND.
+6) Solder a female JST connector's positive wire to WEAP and negative wire to the remaining GND.
+7) Solder the M1 wire to the first N20 motor's positive tab, and the adjacent wire to its negative tab.
+8) Solder the M2 wire to the second N20 motor's positive tab, and the final wire to its negative tab.
+9) Press both N20 motors into their slots and secure them with zip-ties through the platform holes.
+10) Press the wheels firmly onto the motor shafts.
+11) Plug the LIHV battery into the male JST connector.
+12) Place a small piece of blu-tack onto each of the four corner chassis columns.
+13) Press the cover on.
+14) FINISHED!
+
+
+**Photos and Demo**
+All photos and demos can be found in the "Photos" and "Demo" folders of this repository respectively.
+
+
+
+
+
+
+
+    
