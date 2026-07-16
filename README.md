@@ -13,32 +13,35 @@ By combining all these features, I have created a deceptively simple design, whi
 -Colgation
 
 **Bill of Materials**
--> 2x N20 Motors 6V - <img width="440" height="398" alt="image" src="https://github.com/user-attachments/assets/0cc9eaea-2967-4f1e-b460-f22566eeafc9" /> 
--> 2x Polulu Wheels (32mm x 7mm wheels for n20 motors) - https://www.pololu.com/product/1087
--> A Kakapo V2 board (IF you are confident in ESC/Receiver/Transmitter you can replace this with your own alternative) - https://combatrobotics.co.nz/products/kakapo-2a-v1-2?srsltid=AfmBOorcJZ9p2gLWG6NNb6qwdkI8eQIo_saxhcBDmlufdOuAXIksVP4v
--> 22 AWG Silicone Wire (I recommend stranded)
--> 3dprinted parts in the STL-files folder of this repository (You need to 3d print them, instructions on how are below)
--> A 2S LIHV battery - I used GNB 2S 7.6V 300mAh LiHV Battery 60C
--> 2x 10mm screws
--> a male and female JST connector
--> 2 Zipties
+-> 2x N20 Motors 6V <br>
+-> 2x Polulu Wheels (32mm x 7mm wheels for n20 motors) - https://www.pololu.com/product/1087 <br>
+-> A Kakapo V2 board (IF you are confident in ESC/Receiver/Transmitter you can replace this with your own alternative) - https://combatrobotics.co.nz/products/kakapo-2a-v1-2?srsltid=AfmBOorcJZ9p2gLWG6NNb6qwdkI8eQIo_saxhcBDmlufdOuAXIksVP4v <br>
+-> 22 AWG Silicone Wire (I recommend stranded) <br>
+-> 3dprinted parts in the STL-files folder of this repository (You need to 3d print them, instructions on how are below) <br>
+-> A 2S LIHV battery - I used GNB 2S 7.6V 300mAh LiHV Battery 60C <br>
+-> 2x 10mm screws <br>
+-> a male and female JST connector <br>
+-> 2 Zipties <br>
 
 **3d Printer Settings**
 
 USE PLA+ FILAMENT, AS IT IS FAR LESS BRITTLE THAN PLA
 
--> Nozzle Temperature: 220 'C
--> Bed Temperature: 60 'C
--> Print Speeds 
-Initial layer: 50mm/s
-Outer wall: 200mm/s
-Inner wall: 300mm/s
--> Layer height: 0.2mm
--> Line width: 0.4mm
--> Infill density: 15%
--> Infill pattern: Grid
--> Wall count: 2
--> Supports: Standard (Needed for wedge and chassis)
+-> Nozzle Temperature: 220 'C <br>
+-> Bed Temperature: 60 'C<br>
+-> Print Speeds <br>
+Initial layer: 50mm/s <br>
+Outer wall: 200mm/s<br>
+Inner wall: 300mm/s<br>
+-> Layer height: 0.2mm<br>
+-> Line width: 0.4mm<br>
+-> Infill density: 15%<br>
+-> Infill pattern: Grid<br>
+-> Wall count: 2<br>
+-> Supports: Standard (Needed for wedge and chassis)<br>
+
+
+
 
 **Assembly**
 1) Push the wedge into the trapezium looking hole. It should be a bit resistant, so using a plastic hammer will help (it is friction fit)
