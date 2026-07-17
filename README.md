@@ -68,7 +68,8 @@ Inner wall: 300mm/s<br>
 
 
 **Photos and Demo**
-All photos and demos can be found in the "Photos" and "Demo" folders of this repository respectively.
+All photos can be found in the Photos folder of this repository. <br>
+Demo link : https://youtube.com/shorts/-txQDBeLUK4
 
 
 
