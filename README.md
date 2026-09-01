@@ -14,6 +14,9 @@ By combining all these features, I have created a deceptively simple design, whi
 
 -Colgation
 
+Demo:
+<br>
+https://www.youtube.com/watch?v=-txQDBeLUK4
 
 **Step Files and STL files can be found in the repo**
 
@@ -78,11 +81,6 @@ Inner wall: 300mm/s<br>
 <img width="701" height="523" alt="TopDown2" src="https://github.com/user-attachments/assets/c313061f-ad36-4afc-9559-d898560bd943" />
 <img width="885" height="581" alt="Topdown1" src="https://github.com/user-attachments/assets/57851607-0283-4aca-9c46-977cf5a97977" />
 <img width="862" height="382" alt="View1" src="https://github.com/user-attachments/assets/17dda7ae-2fa0-4ba9-9f88-efd6939581d8" />
-
-Demo:
-<br>
-https://www.youtube.com/watch?v=-txQDBeLUK4
-
 
 
 
