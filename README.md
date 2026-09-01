@@ -12,6 +12,10 @@ By combining all these features, I have created a deceptively simple design, whi
 
 -Colgation
 
+
+**Step Files and STL files can be found in the repo**
+
+
 **Important**
 Even though I have included the STL files for the antweight bot, I find it better to use Onshape in order to host it to allow modifications and precise parameters. <br>
 This is why I havbe included an Onshape document link here: https://cad.onshape.com/documents/7372a678bd67ffef3bf9fe75/w/b756b9b718aa94560d7b57d3/e/aa83c5eda608b85760f218dc?renderMode=0&uiState=6a596bcb6ef2740900decdec
