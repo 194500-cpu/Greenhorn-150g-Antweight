@@ -74,9 +74,10 @@ Inner wall: 300mm/s<br>
 
 
 **Photos and Demo**
-<img width="701" height="523" alt="TopDown2" src="https://github.com/user-attachments/assets/c36e9ad0-5f68-4787-8fe6-acabfbae9a35" />
-<img width="885" height="581" alt="Topdown1" src="https://github.com/user-attachments/assets/dfd77bc6-089a-46ee-a405-d2c06a3ac16d" />
-<img width="862" height="382" alt="View1" src="https://github.com/user-attachments/assets/58afd9e8-c701-458d-9318-829b333d7692" />
+<br>
+<img width="400" height="400" alt="TopDown2" src="https://github.com/user-attachments/assets/c36e9ad0-5f68-4787-8fe6-acabfbae9a35" />
+<img width="400" height="400" alt="Topdown1" src="https://github.com/user-attachments/assets/dfd77bc6-089a-46ee-a405-d2c06a3ac16d" />
+<img width="400" height="400" alt="View1" src="https://github.com/user-attachments/assets/58afd9e8-c701-458d-9318-829b333d7692" />
 
 Demo can be found in Demo folder of this repository
 
